@@ -10,8 +10,8 @@ npm run dev
 yarn dev
 ```
 
-<img width="1440" alt="Screenshot 2021-09-26 at 9 17 48 AM" src="https://user-images.githubusercontent.com/73185436/138687152-52349e80-bdc7-4d5f-9823-c8d6cc196736.png">
 
+<img width="1440" alt="Screenshot 2021-10-25 at 5 14 22 PM" src="https://user-images.githubusercontent.com/73185436/138689242-1270628d-a36f-4afc-aaf9-72ad1532da9b.png">
 
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
