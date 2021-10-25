@@ -8,7 +8,8 @@ First, run the development server:
 npm run dev
 # or
 yarn dev
-```
+```<img width="1440" alt="Screenshot 2021-09-26 at 9 17 48 AM" src="https://user-images.githubusercontent.com/73185436/138686957-9eb9e7ef-6899-4267-a0a7-0ae4ec8634b8.png">
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
