@@ -10,7 +10,7 @@ npm run dev
 yarn dev
 ```
 
-<img width="1439" alt="Screenshot 2021-12-01 at 5 16 59 PM" src="https://user-images.githubusercontent.com/73185436/144229253-e054bbe9-60dc-407c-add7-c52a66b74a9d.png">
+![Untitled design (2)](https://user-images.githubusercontent.com/73185436/144229495-5143e869-6b64-4374-ac21-30e09b1bf645.png)
 
 
 
